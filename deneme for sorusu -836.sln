@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme for sorusu -836", "deneme for sorusu -836\deneme for sorusu -836.csproj", "{11186B2F-FA2D-4264-9385-44526F976F54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11186B2F-FA2D-4264-9385-44526F976F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11186B2F-FA2D-4264-9385-44526F976F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11186B2F-FA2D-4264-9385-44526F976F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11186B2F-FA2D-4264-9385-44526F976F54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA0A9AD2-E80C-4B59-B361-6913DB558DA5}
+	EndGlobalSection
+EndGlobal
